@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "baslik": "Inception",
+    "yil": 2010,
+    "kategori": "Bilim Kurgu",
+    "yonetmen": "Christopher Nolan",
+    "aciklama": "Bir hırsız, insanların rüyalarına girerek bilinçaltlarından bilgi çalan özel bir ajan olarak çalışmaktadır.",
+    "poster": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+    "sure": "148 dk",
+    "ekleyen": "admin",
+    "eklenme_tarihi": "2024-01-15"
+  },
+  {
+    "id": 2,
+    "baslik": "The Dark Knight",
+    "yil": 2008,
+    "kategori": "Aksiyon",
+    "yonetmen": "Christopher Nolan",
+    "aciklama": "Batman, Joker adıyla bilinen gizemli bir suçluyla mücadele eder.",
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "sure": "152 dk",
+    "ekleyen": "admin",
+    "eklenme_tarihi": "2024-01-15"
+  },
+  {
+    "id": 3,
+    "baslik": "Interstellar",
+    "yil": 2014,
+    "kategori": "Bilim Kurgu",
+    "yonetmen": "Christopher Nolan",
+    "aciklama": "Bir grup astronot insanlığın yeni yurdu olabilecek gezegenler aramak için uzay-zaman tünelinden geçer.",
+    "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "sure": "169 dk",
+    "ekleyen": "admin",
+    "eklenme_tarihi": "2024-01-16"
+  },
+  {
+    "id": 4,
+    "baslik": "Parasite",
+    "yil": 2019,
+    "kategori": "Dram",
+    "yonetmen": "Bong Joon-ho",
+    "aciklama": "Yoksul Ki ailesi, zengin Park ailesinin hayatına sızmayı başarır. Sınıf çatışması beklenmedik bir felakete yol açar.",
+    "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "sure": "132 dk",
+    "ekleyen": "admin",
+    "eklenme_tarihi": "2024-01-17"
+  },
+  {
+    "id": 5,
+    "baslik": "The Shawshank Redemption",
+    "yil": 1994,
+    "kategori": "Dram",
+    "yonetmen": "Frank Darabont",
+    "aciklama": "Haksız yere mahkum edilen Andy Dufresne, Shawshank Cezaevi'nde geçirdiği yıllar boyunca umudunu korumayı başarır.",
+    "poster": "https://image.tmdb.org/t/p/w500/lyQBXzOQSuE59IsHyhrp0qIiPAz.jpg",
+    "sure": "142 dk",
+    "ekleyen": "admin",
+    "eklenme_tarihi": "2024-01-18"
+  },
+  {
+    "id": 6,
+    "baslik": "Pulp Fiction",
+    "yil": 1994,
+    "kategori": "Suç",
+    "yonetmen": "Quentin Tarantino",
+    "aciklama": "Los Angeles'ın suç dünyasında birbirine bağlı hikayelerin anlatıldığı kara film klasiği.",
+    "poster": "https://image.tmdb.org/t/p/w500/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg",
+    "sure": "154 dk",
+    "ekleyen": "admin",
+    "eklenme_tarihi": "2024-01-19"
+  }
+]
